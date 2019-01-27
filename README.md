@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Truly Messaging App
+- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 - Finished tasks.
   - display data from react state
