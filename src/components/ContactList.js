@@ -3,7 +3,6 @@ import Contact from './Contact'
 
 const ContactList = (props) => {
   const contacts = props.contacts.filteredContent;
-  // console.log('@@@@', contacts)
   return (
     <ul className="contactList">
       {

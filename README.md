@@ -1,11 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+- Finished tasks.
+  - display data from react state
+  - add new entries to react state
+  - filter data.
+  - validate name/number/context before submition.
 
-- First I will just display all data.
-- Next is to get a filter working. 
+#### Steps to Run
+- `cd` into the project directory.
+- `npm install`
+- `yarn start`
 
-
-##### Need-to-add libs.
-- json-server
-- lowdb
-- some kind of number formatting lib.. possibly `awesome-phonenumber`
+##### Notes
+- I'm having all state at the `App` component level.
+- I don't have `json-server` backend running.
